@@ -41,7 +41,7 @@ A SOC Analyst at Umbrella Corporation is going through SIEM alerts and sees the 
 
 ## **4. Methodology**
 
-[Link](/Network-Analysis/NA01/Process)
+[Link](/Network-Analysis/NA01/Process.md)
 
 ---
 
