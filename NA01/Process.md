@@ -6,7 +6,7 @@ Tools used: WireShark, Virustotal
 
 - **Step 1:** Open the `.pcap` file in Wireshark.
 
-![image.png](/Images/image.png)
+![image.png](Images/image.png)
 
 - **Step 2:** Note **name, total packets, capture duration, file size, and timestamps** (`Statistics → Capture File Properties`).
 
