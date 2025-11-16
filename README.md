@@ -12,8 +12,8 @@ Network-Analysis/
 ├── NA01/
 │   ├── Images/          # Screenshots and evidence
 │   ├── NA01.pcap        # Packet capture file (if available)
-│   ├── Process.md       # Step-by-step analysis workflow
-│   └── README.md        # Final network analysis report
+│   ├── Report.md        # Final network analysis report
+│   └── README.md        # Step-by-step analysis workflow
 │
 └── README.md
 
